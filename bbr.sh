@@ -319,7 +319,7 @@ install_kernel() {
 }
 
 reboot_os() {
-    reboot
+    echo "不想重启了"
 }
 
 install_bbr() {
