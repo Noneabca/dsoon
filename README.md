@@ -16,3 +16,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Noneabca/dsoon/
 ```ssh
 wget -N --no-check-certificate https://raw.githubusercontent.com/Noneabca/dsoon/main/tcpup.sh && chmod +x tcpup.sh && bash tcpup.sh
 ```
+
+```ssh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Noneabca/dsoon/main/saveipta.sh && chmod +x saveipta.sh && bash saveipta.sh
+```
