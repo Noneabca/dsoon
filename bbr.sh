@@ -319,15 +319,7 @@ install_kernel() {
 }
 
 reboot_os() {
-    echo
-    _info "The system needs to reboot."
-    read -p "Do you want to restart system? [y/n]" is_reboot
-    if [[ ${is_reboot} == "y" || ${is_reboot} == "Y" ]]; then
-        reboot
-    else
-        _info "Reboot has been canceled..."
-        exit 0
-    fi
+    reboot
 }
 
 install_bbr() {
