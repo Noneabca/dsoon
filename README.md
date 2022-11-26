@@ -28,3 +28,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Noneabca/dsoon/
 ```ssh
 wget -N --no-check-certificate https://raw.githubusercontent.com/Noneabca/dsoon/main/setreip.sh && chmod +x setreip.sh && bash setreip.sh
 ```
+
+```ssh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Noneabca/dsoon/main/setcdnsay.sh && chmod +x setcdnsay.sh && bash setcdnsay.sh
+```
