@@ -19,6 +19,12 @@ rm bna.crt
 rm bna.key
 rm bnb.crt
 rm bnb.key
+rm weixin.crt
+rm weixin.key
+rm alipay.crt
+rm alipay.key
+rm taobao.crt
+rm taobao.key
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/a.crt
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/a.key
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/b.crt
@@ -35,3 +41,9 @@ wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/bna.crt
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/bna.key
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/bnb.crt
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/bnb.key
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/weixin.crt
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/weixin.key
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/alipay.crt
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/alipay.key
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/taobao.crt
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/taobao.key
