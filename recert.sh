@@ -25,6 +25,14 @@ rm alipay.crt
 rm alipay.key
 rm taobao.crt
 rm taobao.key
+rm douyin.crt
+rm douyin.key
+rm baidu.crt
+rm baidu.key
+rm xiaohongshu.crt
+rm xiaohongshu.key
+rm bing.crt
+rm bing.key
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/a.crt
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/a.key
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/b.crt
@@ -47,3 +55,11 @@ wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/alipay.crt
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/alipay.key
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/taobao.crt
 wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/taobao.key
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/douyin.crt
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/douyin.key
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/baidu.crt
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/baidu.key
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/xiaohongshu.crt
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/xiaohongshu.key
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/bing.crt
+wget https://raw.githubusercontent.com/Noneabca/csoon/main/mycert/bing.key
